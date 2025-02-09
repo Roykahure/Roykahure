@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roykahure
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java, Python, C/C++ , HTML, Flask
-- 💞️ I’m looking forward to becoming a professional coder
+- 👀 I’m interested in coding,DevOps
+- 🌱 I’m currently a software engineer
+- 💞️ I’m looking forward to colaborating in amaizing software projects
 - 📫 How to reach me ..rkahure@gmail.com.
 
 <!---
